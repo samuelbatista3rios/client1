@@ -99,7 +99,7 @@ const AddRoutes = () => {
             </select>
           </div>
           <button onClick={handleSubmit} className="btn btn-primary">Adicionar</button>
-          <button onClick={handleUpload} className="btn btn-primary">Adicionar</button>
+          <button onClick={handleUpload} className="btn btn-primary">Atualizar</button>
         </div>
       </form>
 
